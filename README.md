@@ -5,9 +5,14 @@
 
 ![image](https://github.com/FredSabu/ESG_FinancialSector/assets/130511381/4d6e10da-1583-4a0a-9fb7-5cafcdd8b583)
 
+See the provided PDF or Jupyter Notebook files for full analysis.
+
+
 ## Project Introduction
 
 This project offers insights into companies' Environmental, Social, and Governance (ESG) risk factors within the S&P 500 index, focusing particularly on the financial sector. In a landscape where ethical and sustainable investments are increasingly prioritised, a nuanced understanding of ESG factors is crucial. 
+
+
 
 ## Dataset
 
